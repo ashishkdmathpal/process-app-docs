@@ -347,10 +347,10 @@ Use priority levels consistently:
 
 ## Next Steps
 
-- **[Task Management](/user-guide/05-tasks.md)** - Complete your assigned tasks
-- **[Team Progress](/user-guide/06-team-progress.md)** - Monitor team performance
-- **[Analytics](/user-guide/07-analytics.md)** - Track workflow metrics
+- **[Task Management](./05-tasks.md)** - Complete your assigned tasks
+- **[Team Progress](./06-team-progress.md)** - Monitor team performance
+- **[Analytics](./07-analytics.md)** - Track workflow metrics
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*

@@ -271,10 +271,10 @@ Consider:
 
 ## Next Steps
 
-- **[Team Management](/user-guide/08-team-management.md)** - Assign tags to users
-- **[Playbooks](/user-guide/03-playbooks.md)** - Tag your workflow templates
-- **[FAQ](/user-guide/10-faq.md)** - Common questions
+- **[Team Management](./08-team-management.md)** - Assign tags to users
+- **[Playbooks](./03-playbooks.md)** - Tag your workflow templates
+- **[FAQ](./10-faq.md)** - Common questions
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*

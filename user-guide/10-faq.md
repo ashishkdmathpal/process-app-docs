@@ -360,11 +360,11 @@ Orderly requires an internet connection. If you lose connectivity:
 If you can't find your answer:
 
 1. **Check related documentation**
-   - [Getting Started](/user-guide/01-getting-started.md)
-   - [Dashboard](/user-guide/02-dashboard.md)
-   - [Playbooks](/user-guide/03-playbooks.md)
-   - [Workflows](/user-guide/04-workflows.md)
-   - [Tasks](/user-guide/05-tasks.md)
+   - [Getting Started](./01-getting-started.md)
+   - [Dashboard](./02-dashboard.md)
+   - [Playbooks](./03-playbooks.md)
+   - [Workflows](./04-workflows.md)
+   - [Tasks](./05-tasks.md)
 
 2. **Contact your organization admin**
    - They can help with role-specific questions

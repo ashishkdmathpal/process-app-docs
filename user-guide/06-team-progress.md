@@ -154,10 +154,10 @@ When you can't resolve a blocker:
 
 ## Next Steps
 
-- **[Analytics](/user-guide/07-analytics.md)** - Deep dive into metrics
-- **[Team Management](/user-guide/08-team-management.md)** - Manage team members
-- **[FAQ](/user-guide/10-faq.md)** - Common questions
+- **[Analytics](./07-analytics.md)** - Deep dive into metrics
+- **[Team Management](./08-team-management.md)** - Manage team members
+- **[FAQ](./10-faq.md)** - Common questions
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*

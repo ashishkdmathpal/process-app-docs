@@ -383,10 +383,10 @@ Once you have an active playbook, you can start workflow instances:
 
 ## Next Steps
 
-- **[Running Workflows](/user-guide/04-workflows.md)** - Start and manage workflow instances
-- **[Task Management](/user-guide/05-tasks.md)** - Complete tasks in your workflows
-- **[Analytics](/user-guide/07-analytics.md)** - Track playbook performance
+- **[Running Workflows](./04-workflows.md)** - Start and manage workflow instances
+- **[Task Management](./05-tasks.md)** - Complete tasks in your workflows
+- **[Analytics](./07-analytics.md)** - Track playbook performance
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*

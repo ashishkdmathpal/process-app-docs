@@ -353,10 +353,10 @@ Ask your manager to reassign the task, or:
 
 ## Next Steps
 
-- **[Team Progress](/user-guide/06-team-progress.md)** - Monitor your team's work
-- **[Analytics](/user-guide/07-analytics.md)** - Track task completion metrics
-- **[FAQ](/user-guide/10-faq.md)** - Common questions
+- **[Team Progress](./06-team-progress.md)** - Monitor your team's work
+- **[Analytics](./07-analytics.md)** - Track task completion metrics
+- **[FAQ](./10-faq.md)** - Common questions
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*

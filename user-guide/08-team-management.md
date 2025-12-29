@@ -255,10 +255,10 @@ Check if:
 
 ## Next Steps
 
-- **[Tags & Organization](/user-guide/09-tags-organization.md)** - Organize with departments and teams
-- **[Analytics](/user-guide/07-analytics.md)** - View team performance
-- **[FAQ](/user-guide/10-faq.md)** - Common questions
+- **[Tags & Organization](./09-tags-organization.md)** - Organize with departments and teams
+- **[Analytics](./07-analytics.md)** - View team performance
+- **[FAQ](./10-faq.md)** - Common questions
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*

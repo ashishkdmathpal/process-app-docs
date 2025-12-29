@@ -233,10 +233,10 @@ As a Team Member, your Dashboard displays:
 
 ## Next Steps
 
-- **[Playbooks](/user-guide/03-playbooks.md)** - Learn to create workflow templates
-- **[Running Workflows](/user-guide/04-workflows.md)** - Start and manage workflow instances
-- **[My Tasks](/user-guide/05-tasks.md)** - View your personal task list
+- **[Playbooks](./03-playbooks.md)** - Learn to create workflow templates
+- **[Running Workflows](./04-workflows.md)** - Start and manage workflow instances
+- **[My Tasks](./05-tasks.md)** - View your personal task list
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*
