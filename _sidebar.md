@@ -1,21 +1,11 @@
-- [Home](/)
-
-- **Getting Started**
-  - [Quick Start](user-guide/01-getting-started.md)
-
-- **Core Features**
-  - [Dashboard](user-guide/02-dashboard.md)
-  - [Playbooks](user-guide/03-playbooks.md)
-  - [Workflows](user-guide/04-workflows.md)
-  - [Tasks](user-guide/05-tasks.md)
-
-- **Team & Analytics**
-  - [Team Progress](user-guide/06-team-progress.md)
-  - [Analytics](user-guide/07-analytics.md)
-
-- **Administration**
-  - [Team Management](user-guide/08-team-management.md)
-  - [Tags & Organization](user-guide/09-tags-organization.md)
-
-- **Reference**
-  - [FAQ](user-guide/10-faq.md)
+* [Home](/)
+* [Quick Start](user-guide/01-getting-started.md)
+* [Dashboard](user-guide/02-dashboard.md)
+* [Playbooks](user-guide/03-playbooks.md)
+* [Workflows](user-guide/04-workflows.md)
+* [Tasks](user-guide/05-tasks.md)
+* [Team Progress](user-guide/06-team-progress.md)
+* [Analytics](user-guide/07-analytics.md)
+* [Team Management](user-guide/08-team-management.md)
+* [Tags & Organization](user-guide/09-tags-organization.md)
+* [FAQ](user-guide/10-faq.md)

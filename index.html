@@ -308,12 +308,10 @@
   <script>
     window.$docsify = {
       name: 'Orderly',
-      loadSidebar: true,
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
+      loadSidebar: '_sidebar.md',
       subMaxLevel: 2,
       auto2top: true,
+      hideSidebar: false,
       search: {
         placeholder: 'Search documentation...',
         noData: 'No results found',
