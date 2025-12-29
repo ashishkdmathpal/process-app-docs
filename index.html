@@ -11,96 +11,243 @@
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="_media/favicon.svg">
 
-  <!-- Docsify Theme -->
+  <!-- Docsify Theme - Light -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 
-  <!-- Custom Styles -->
+  <!-- Force Light Theme -->
   <style>
     :root {
       /* Brand Colors */
       --theme-color: #3b82f6;
       --theme-color-secondary: #1d4ed8;
 
-      /* Sidebar */
+      /* Base - Light Theme */
+      --base-background-color: #ffffff;
+      --base-color: #1e293b;
+
+      /* Sidebar - Light */
       --sidebar-width: 280px;
       --sidebar-background: #f8fafc;
-      --sidebar-nav-link-color: #334155;
+      --sidebar-border-color: #e2e8f0;
+      --sidebar-nav-link-color: #475569;
       --sidebar-nav-link-color--active: #3b82f6;
       --sidebar-nav-link-font-weight--active: 600;
 
-      /* Content */
+      /* Content - Light */
       --content-max-width: 900px;
-      --heading-color: #1e293b;
+      --heading-color: #0f172a;
 
-      /* Code */
+      /* Code - Light */
       --code-inline-background: #f1f5f9;
       --code-inline-color: #be185d;
+      --code-block-background: #f8fafc;
 
-      /* Tables */
+      /* Tables - Light */
       --table-head-background: #f1f5f9;
     }
 
-    /* Logo Styling */
-    .app-name-link img {
-      max-width: 180px;
+    /* Force light background everywhere */
+    body,
+    .app-nav,
+    main {
+      background-color: #ffffff !important;
+      color: #1e293b !important;
     }
 
-    /* Sidebar Section Headers */
+    /* Sidebar */
+    .sidebar {
+      background-color: #f8fafc !important;
+      border-right: 1px solid #e2e8f0 !important;
+    }
+
+    .sidebar-nav {
+      padding: 1rem;
+    }
+
     .sidebar-nav > ul > li > a {
-      font-weight: 600;
-      color: var(--theme-color);
+      font-weight: 600 !important;
+      color: #3b82f6 !important;
       text-transform: uppercase;
-      font-size: 0.85em;
+      font-size: 0.8em;
       letter-spacing: 0.5px;
+      margin-top: 1rem;
+    }
+
+    .sidebar-nav li a {
+      color: #475569 !important;
+      padding: 0.5rem 0;
+    }
+
+    .sidebar-nav li a:hover {
+      color: #3b82f6 !important;
+    }
+
+    .sidebar-nav li.active > a {
+      color: #3b82f6 !important;
+      font-weight: 600 !important;
+    }
+
+    /* Search box */
+    .search input {
+      background-color: #ffffff !important;
+      border: 1px solid #e2e8f0 !important;
+      color: #1e293b !important;
+    }
+
+    .search input::placeholder {
+      color: #94a3b8 !important;
+    }
+
+    /* Main content area */
+    .content,
+    article.markdown-section {
+      background-color: #ffffff !important;
+      color: #1e293b !important;
+    }
+
+    /* Headings */
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3,
+    .markdown-section h4,
+    .markdown-section h5 {
+      color: #0f172a !important;
+    }
+
+    .markdown-section h1 {
+      border-bottom: 2px solid #e2e8f0;
+      padding-bottom: 0.5rem;
+    }
+
+    .markdown-section h2 {
+      border-bottom: 1px solid #e2e8f0;
+      padding-bottom: 0.3rem;
+      margin-top: 2rem;
+    }
+
+    /* Paragraphs */
+    .markdown-section p {
+      color: #334155 !important;
+      line-height: 1.7;
+    }
+
+    /* Strong text */
+    .markdown-section strong {
+      color: #0f172a !important;
+    }
+
+    /* Links */
+    .markdown-section a {
+      color: #3b82f6 !important;
+    }
+
+    .markdown-section a:hover {
+      color: #1d4ed8 !important;
+    }
+
+    /* Lists */
+    .markdown-section ul,
+    .markdown-section ol,
+    .markdown-section li {
+      color: #334155 !important;
     }
 
     /* Hero Section */
     .hero-section {
-      background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
-      color: white;
-      padding: 3rem 2rem;
+      background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%) !important;
+      color: white !important;
+      padding: 2.5rem 2rem;
       border-radius: 12px;
       margin-bottom: 2rem;
       text-align: center;
     }
 
-    .hero-section h1 {
-      color: white;
-      margin-bottom: 1rem;
+    .hero-section h2 {
+      color: white !important;
+      border: none !important;
+      margin: 0 0 1rem 0 !important;
+      padding: 0 !important;
     }
 
     .hero-section p {
-      opacity: 0.9;
+      color: rgba(255, 255, 255, 0.9) !important;
       font-size: 1.1em;
+      margin: 0;
     }
 
-    /* Feature Cards */
-    .feature-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 1.5rem;
-      margin: 2rem 0;
+    /* Tables */
+    .markdown-section table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 1rem 0;
+      display: table !important;
     }
 
-    .feature-card {
-      background: #f8fafc;
-      border: 1px solid #e2e8f0;
+    .markdown-section table th {
+      background-color: #f1f5f9 !important;
+      color: #0f172a !important;
+      font-weight: 600;
+      padding: 0.75rem 1rem;
+      text-align: left;
+      border: 1px solid #e2e8f0 !important;
+    }
+
+    .markdown-section table td {
+      padding: 0.75rem 1rem;
+      border: 1px solid #e2e8f0 !important;
+      color: #1e293b !important;
+      background-color: #ffffff !important;
+    }
+
+    .markdown-section table tr:nth-child(even) td {
+      background-color: #f8fafc !important;
+    }
+
+    /* Code */
+    .markdown-section code {
+      background-color: #f1f5f9 !important;
+      color: #be185d !important;
+      padding: 0.2em 0.4em;
+      border-radius: 4px;
+      font-size: 0.9em;
+    }
+
+    .markdown-section pre {
+      background-color: #f8fafc !important;
+      border: 1px solid #e2e8f0 !important;
       border-radius: 8px;
-      padding: 1.5rem;
-      transition: transform 0.2s, box-shadow 0.2s;
+      padding: 1rem;
     }
 
-    .feature-card:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    .markdown-section pre code {
+      background-color: transparent !important;
+      color: #1e293b !important;
+      padding: 0;
     }
 
-    .feature-card h3 {
-      color: var(--theme-color);
-      margin-top: 0;
+    /* Blockquotes */
+    .markdown-section blockquote {
+      border-left: 4px solid #3b82f6 !important;
+      background-color: #eff6ff !important;
+      color: #1e40af !important;
+      padding: 1rem 1.5rem;
+      border-radius: 0 8px 8px 0;
+      margin: 1rem 0;
     }
 
-    /* Role Badges */
+    .markdown-section blockquote p {
+      color: #1e40af !important;
+    }
+
+    /* Screenshots/Images */
+    .markdown-section img {
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      margin: 1rem 0;
+      max-width: 100%;
+    }
+
+    /* Role badges */
     .role-badge {
       display: inline-block;
       padding: 0.25rem 0.75rem;
@@ -110,69 +257,47 @@
       margin-right: 0.5rem;
     }
 
-    .role-founder { background: #fef3c7; color: #92400e; }
-    .role-manager { background: #dbeafe; color: #1e40af; }
-    .role-member { background: #dcfce7; color: #166534; }
+    .role-founder { background: #fef3c7 !important; color: #92400e !important; }
+    .role-manager { background: #dbeafe !important; color: #1e40af !important; }
+    .role-member { background: #dcfce7 !important; color: #166534 !important; }
 
-    /* Screenshots */
-    .markdown-section img {
+    /* Horizontal rules */
+    .markdown-section hr {
+      border: none !important;
+      border-top: 1px solid #e2e8f0 !important;
+      margin: 2rem 0;
+    }
+
+    /* Details/summary (accordions) */
+    .markdown-section details {
+      background: #f8fafc !important;
+      border: 1px solid #e2e8f0 !important;
       border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      padding: 1rem;
       margin: 1rem 0;
     }
 
-    /* Status Indicators */
-    .status-locked { color: #6b7280; }
-    .status-available { color: #3b82f6; }
-    .status-in-progress { color: #f59e0b; }
-    .status-completed { color: #10b981; }
-
-    /* Callout Boxes */
-    blockquote {
-      border-left: 4px solid var(--theme-color);
-      background: #eff6ff;
-      padding: 1rem 1.5rem;
-      border-radius: 0 8px 8px 0;
+    .markdown-section details summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #0f172a !important;
     }
 
-    /* Footer */
+    /* Pagination */
     .docsify-pagination-container {
-      border-top: 1px solid #e2e8f0;
+      border-top: 1px solid #e2e8f0 !important;
       margin-top: 3rem;
+      padding-top: 1rem;
     }
 
-    /* Mobile Responsive */
+    .pagination-item-title {
+      color: #3b82f6 !important;
+    }
+
+    /* Mobile */
     @media (max-width: 768px) {
-      .feature-grid {
-        grid-template-columns: 1fr;
-      }
-
       .hero-section {
-        padding: 2rem 1rem;
-      }
-    }
-
-    /* Dark Mode Support */
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --sidebar-background: #1e293b;
-        --sidebar-nav-link-color: #cbd5e1;
-        --heading-color: #f1f5f9;
-        --code-inline-background: #334155;
-      }
-
-      body {
-        background: #0f172a;
-        color: #e2e8f0;
-      }
-
-      .feature-card {
-        background: #1e293b;
-        border-color: #334155;
-      }
-
-      blockquote {
-        background: #1e3a5f;
+        padding: 1.5rem 1rem;
       }
     }
   </style>
@@ -182,9 +307,7 @@
 
   <script>
     window.$docsify = {
-      name: '<img src="_media/logo.svg" alt="Orderly">',
-      nameLink: '/',
-      repo: 'ashishkdmathpal/process-app',
+      name: 'Orderly',
       loadSidebar: true,
       subMaxLevel: 3,
       auto2top: true,
@@ -202,18 +325,10 @@
         buttonText: 'Copy',
         successText: 'Copied!'
       },
-      tabs: {
-        persist: true,
-        sync: true
-      },
       themeColor: '#3b82f6',
-      // Cover page
-      coverpage: true,
-      onlyCover: false,
-      // Misc
       relativePath: true,
       notFoundPage: true,
-      topMargin: 90
+      topMargin: 50
     }
   </script>
 
@@ -224,7 +339,6 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 
   <!-- Syntax Highlighting -->
