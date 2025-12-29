@@ -57,7 +57,7 @@ Each tag has:
 1. Click **Settings** in the sidebar (Owner/Admin only)
 2. Go to **Tags**
 
-![Tags Management Page](../screenshots/tags/tags-management-full.png)
+![Tags Management Page](screenshots/tags/tags-management-full.png)
 *Tags management page showing all organizational tags*
 
 ### Step 2: Create New Tag
@@ -70,7 +70,7 @@ Each tag has:
    - **Description**: Optional context
 3. Click **Save**
 
-![Create Tag Button](../screenshots/tags/create-tag-button.png)
+![Create Tag Button](screenshots/tags/create-tag-button.png)
 *Click the highlighted button to create a new tag*
 
 ### Example Tags Setup

@@ -25,7 +25,7 @@ The Founder Dashboard is designed for organizational leaders who need:
 
 > **Note:** This dashboard is only accessible to users with **Owner** or **Admin** roles.
 
-![Founder Dashboard Full View](../screenshots/founder/founder-dashboard-full.png)
+![Founder Dashboard Full View](screenshots/founder/founder-dashboard-full.png)
 *The Founder Dashboard showing KPIs, team performance, and workflow overview*
 
 ---
@@ -48,7 +48,7 @@ The Founder Dashboard is designed for organizational leaders who need:
 
 The dashboard displays four primary KPI cards at the top:
 
-![KPI Metrics](../screenshots/founder/kpi-metrics.png)
+![KPI Metrics](screenshots/founder/kpi-metrics.png)
 *Key Performance Indicators at a glance*
 
 | Metric | Description | What to Watch |
@@ -82,7 +82,7 @@ The dashboard displays four primary KPI cards at the top:
 
 ### Leaderboard
 
-![Team Leaderboard](../screenshots/founder/team-leaderboard.png)
+![Team Leaderboard](screenshots/founder/team-leaderboard.png)
 *Team performance ranking*
 
 The leaderboard shows:
@@ -115,7 +115,7 @@ Tactfully displayed section showing:
 
 Use filters to focus on specific segments of your organization:
 
-![Filter Options](../screenshots/founder/team-filter-open.png)
+![Filter Options](screenshots/founder/team-filter-open.png)
 *Filter dropdown showing team selection options*
 
 | Filter | Options | Use Case |
@@ -195,11 +195,11 @@ Simplified display optimized for screen sharing:
 Different roles see different navigation options:
 
 ### Owner View
-![Owner Dashboard](../screenshots/roles/manager-dashboard.png)
+![Owner Dashboard](screenshots/roles/manager-dashboard.png)
 *Full access including Founder Dashboard*
 
 ### Member View
-![Member Dashboard](../screenshots/roles/member-dashboard.png)
+![Member Dashboard](screenshots/roles/member-dashboard.png)
 *Focused on personal tasks - no Founder Dashboard access*
 
 ---

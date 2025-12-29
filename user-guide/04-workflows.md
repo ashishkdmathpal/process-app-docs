@@ -31,7 +31,7 @@ The **Active Work** page shows all running workflow instances in your organizati
 - Track progress and completion
 - Identify stuck or blocked workflows
 
-![Workflows List](../screenshots/workflows/workflows-list-full.png)
+![Workflows List](screenshots/workflows/workflows-list-full.png)
 *The Active Work page showing workflow instances*
 
 ---
@@ -95,7 +95,7 @@ Best for:
 
 ### Filtering & Search
 
-![Filter Tabs](../screenshots/workflows/filter-tabs.png)
+![Filter Tabs](screenshots/workflows/filter-tabs.png)
 *Filter buttons for workflow status*
 
 **Filter Options:**

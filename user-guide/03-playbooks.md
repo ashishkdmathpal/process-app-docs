@@ -30,7 +30,7 @@ Playbooks define the structure of your processes:
 - **Stages**: Groups of tasks that can run in parallel
 - **Blocking Mode**: How strictly tasks are sequenced
 
-![Playbooks Page](../screenshots/playbooks/playbooks-page-full.png)
+![Playbooks Page](screenshots/playbooks/playbooks-page-full.png)
 *The Playbooks page showing your workflow templates*
 
 ---
@@ -67,7 +67,7 @@ Use the filter tabs to show specific playbook types:
 - **Active** - Ready-to-use playbooks
 - **Archived** - Old or retired playbooks
 
-![Search Playbooks](../screenshots/playbooks/search-playbooks.png)
+![Search Playbooks](screenshots/playbooks/search-playbooks.png)
 *Search and filter your playbooks*
 
 ### Template Library
@@ -97,14 +97,14 @@ The fastest way to create a playbook is using AI. Describe your process in plain
 
 Click the **Create Playbook** button.
 
-![Create Playbook Button](../screenshots/playbooks/create-playbook-button.png)
+![Create Playbook Button](screenshots/playbooks/create-playbook-button.png)
 *Click to create a new playbook*
 
 **Step 2: Describe Your Process**
 
 Enter a natural language description of your workflow.
 
-![Create Workflow Page](../screenshots/playbooks/create-workflow-full.png)
+![Create Workflow Page](screenshots/playbooks/create-workflow-full.png)
 *The AI-powered workflow creation page*
 
 **Example Prompts:**
