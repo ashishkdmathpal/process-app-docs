@@ -251,10 +251,10 @@ Focus on:
 
 ## Next Steps
 
-- **[Team Management](./08-team-management.md)** - Manage your team
-- **[Tags & Organization](./09-tags-organization.md)** - Organize with tags
-- **[FAQ](./10-faq.md)** - Common questions
+- **[Team Management](/user-guide/08-team-management.md)** - Manage your team
+- **[Tags & Organization](/user-guide/09-tags-organization.md)** - Organize with tags
+- **[FAQ](/user-guide/10-faq.md)** - Common questions
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*

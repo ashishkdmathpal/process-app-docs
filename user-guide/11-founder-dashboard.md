@@ -206,11 +206,11 @@ Different roles see different navigation options:
 
 ## Next Steps
 
-- **[Analytics](./07-analytics.md)** - Deeper reporting and trends
-- **[Team Management](./08-team-management.md)** - Manage users and roles
-- **[Tags & Organization](./09-tags-organization.md)** - Organize by department/project
-- **[Tasks](./05-tasks.md)** - Task management details
+- **[Analytics](/user-guide/07-analytics.md)** - Deeper reporting and trends
+- **[Team Management](/user-guide/08-team-management.md)** - Manage users and roles
+- **[Tags & Organization](/user-guide/09-tags-organization.md)** - Organize by department/project
+- **[Tasks](/user-guide/05-tasks.md)** - Task management details
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*

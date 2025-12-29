@@ -50,7 +50,7 @@ Fill in the registration form with your organization information:
 | **Email** | Your work email address | "alex@crescendo.io" |
 | **Password** | A secure password (min 8 characters) | ••••••••• |
 
-![Organization Name Input](../screenshots/auth/register-company-input.png)
+![Organization Name Input](../screenshots/auth/register-name-input.png)
 *Enter your organization name in the highlighted field*
 
 ![Email Input](../screenshots/auth/register-email-input.png)
@@ -111,21 +111,21 @@ After logging in, you'll be taken to your **Dashboard**. Here's what each user r
 
 ### For Founders/Owners
 
-1. **Create your first Playbook** → Go to [Creating Playbooks](./03-playbooks.md#creating-a-playbook)
-2. **Invite your team** → Go to [Team Management](./08-team-management.md)
-3. **Set up departments/tags** → Go to [Tags & Organization](./09-tags-organization.md)
+1. **Create your first Playbook** → Go to [Creating Playbooks](/user-guide/03-playbooks.md#creating-a-playbook)
+2. **Invite your team** → Go to [Team Management](/user-guide/08-team-management.md)
+3. **Set up departments/tags** → Go to [Tags & Organization](/user-guide/09-tags-organization.md)
 
 ### For Managers
 
-1. **Review assigned playbooks** → Go to [Playbooks](./03-playbooks.md)
-2. **Start workflow instances** → Go to [Running Workflows](./04-workflows.md)
-3. **Assign tasks to team** → Go to [Task Assignment](./05-tasks.md#assigning-tasks)
+1. **Review assigned playbooks** → Go to [Playbooks](/user-guide/03-playbooks.md)
+2. **Start workflow instances** → Go to [Running Workflows](/user-guide/04-workflows.md)
+3. **Assign tasks to team** → Go to [Task Assignment](/user-guide/05-tasks.md#assigning-tasks)
 
 ### For Team Members
 
-1. **Check My Tasks** → Go to [My Tasks](./05-tasks.md#my-tasks)
-2. **Complete assigned work** → Go to [Completing Tasks](./05-tasks.md#completing-a-task)
-3. **View workflow progress** → Go to [Workflow Status](./04-workflows.md#viewing-progress)
+1. **Check My Tasks** → Go to [My Tasks](/user-guide/05-tasks.md#my-tasks)
+2. **Complete assigned work** → Go to [Completing Tasks](/user-guide/05-tasks.md#completing-a-task)
+3. **View workflow progress** → Go to [Workflow Status](/user-guide/04-workflows.md#viewing-progress)
 
 ---
 
@@ -201,11 +201,11 @@ Wait 15 minutes before trying again, or contact your organization admin.
 
 Now that you're logged in, continue to:
 
-- **[Understanding the Dashboard](./02-dashboard.md)** - Learn to navigate your workspace
-- **[Creating Playbooks](./03-playbooks.md)** - Build your first workflow template
-- **[Running Workflows](./04-workflows.md)** - Start executing processes
-- **[Managing Tasks](./05-tasks.md)** - Work with individual tasks
+- **[Understanding the Dashboard](/user-guide/02-dashboard.md)** - Learn to navigate your workspace
+- **[Creating Playbooks](/user-guide/03-playbooks.md)** - Build your first workflow template
+- **[Running Workflows](/user-guide/04-workflows.md)** - Start executing processes
+- **[Managing Tasks](/user-guide/05-tasks.md)** - Work with individual tasks
 
 ---
 
-*Need help? Contact your organization admin or visit our [FAQ](./10-faq.md).*
+*Need help? Contact your organization admin or visit our [FAQ](/user-guide/10-faq.md).*
