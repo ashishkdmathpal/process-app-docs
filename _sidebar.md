@@ -1,7 +1,6 @@
-<!-- docs/_sidebar.md -->
+- [Home](/)
 
 - **Getting Started**
-  - [Introduction](/)
   - [Quick Start](user-guide/01-getting-started.md)
 
 - **Core Features**

@@ -309,7 +309,10 @@
     window.$docsify = {
       name: 'Orderly',
       loadSidebar: true,
-      subMaxLevel: 3,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      subMaxLevel: 2,
       auto2top: true,
       search: {
         placeholder: 'Search documentation...',
@@ -326,7 +329,6 @@
         successText: 'Copied!'
       },
       themeColor: '#3b82f6',
-      relativePath: true,
       notFoundPage: true,
       topMargin: 50
     }
