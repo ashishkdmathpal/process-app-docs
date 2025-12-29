@@ -27,7 +27,7 @@ When you log in to Orderly, you land on the Dashboard. This is your central hub 
 - Monitoring active workflow instances
 - Quickly accessing stuck or urgent tasks
 
-![Dashboard Full View](screenshots/dashboard/dashboard-full.png)
+![Dashboard Full View](../screenshots/dashboard/dashboard-full.png)
 *The Orderly Dashboard showing stats, AI command input, and workflow list*
 
 ---
@@ -38,7 +38,7 @@ When you log in to Orderly, you land on the Dashboard. This is your central hub 
 
 The left sidebar provides quick access to all main sections of Orderly.
 
-![Sidebar Navigation](screenshots/dashboard/sidebar-navigation.png)
+![Sidebar Navigation](../screenshots/dashboard/sidebar-navigation.png)
 *Desktop sidebar with navigation sections*
 
 **Navigation Sections:**
@@ -73,7 +73,7 @@ On mobile devices, navigation appears at the bottom of the screen as a tab bar.
 
 At the top of the Dashboard, four stats cards give you instant insight into your workflow status.
 
-![Stats Cards](screenshots/dashboard/stats-cards.png)
+![Stats Cards](../screenshots/dashboard/stats-cards.png)
 *Dashboard statistics cards*
 
 | Card | Icon | What It Shows |
@@ -89,7 +89,7 @@ At the top of the Dashboard, four stats cards give you instant insight into your
 
 The AI Command Input allows you to create new workflows using natural language.
 
-![AI Command Input](screenshots/dashboard/ai-command-input.png)
+![AI Command Input](../screenshots/dashboard/ai-command-input.png)
 *AI-powered workflow creation input*
 
 **How to Use:**
@@ -135,7 +135,7 @@ Below the stats and AI input, you'll see a list of all your workflow instances.
 
 Use the filter and search controls to quickly find specific workflows.
 
-![Filter Controls](screenshots/dashboard/filter-controls.png)
+![Filter Controls](../screenshots/dashboard/filter-controls.png)
 *Search and filter options*
 
 ### Search
@@ -155,7 +155,7 @@ Click filter buttons to show only certain workflow statuses:
 | **Stuck** | Workflows with blocked tasks |
 | **Completed** | Finished workflows |
 
-![Filtered View](screenshots/dashboard/filtered-stuck.png)
+![Filtered View](../screenshots/dashboard/filtered-stuck.png)
 *Dashboard filtered to show only stuck workflows*
 
 ---
@@ -164,7 +164,7 @@ Click filter buttons to show only certain workflow statuses:
 
 ### Header Actions
 
-![Header Actions](screenshots/dashboard/header-actions.png)
+![Header Actions](../screenshots/dashboard/header-actions.png)
 *Dashboard header with action buttons*
 
 | Button | Action |

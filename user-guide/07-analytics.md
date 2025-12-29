@@ -15,7 +15,7 @@ The Analytics page provides insights into your organization's workflow performan
 
 ## Overview
 
-![Analytics Page](screenshots/analytics/analytics-full.png)
+![Analytics Page](../screenshots/analytics/analytics-full.png)
 *The Analytics dashboard with key metrics*
 
 Analytics helps you answer questions like:
@@ -28,7 +28,7 @@ Analytics helps you answer questions like:
 
 ## Dashboard Metrics
 
-![Metrics Cards](screenshots/analytics/metrics-cards.png)
+![Metrics Cards](../screenshots/analytics/metrics-cards.png)
 *Key performance indicators*
 
 ### Key Performance Indicators
@@ -42,7 +42,7 @@ Analytics helps you answer questions like:
 
 ### Time Range Selection
 
-![Date Range](screenshots/analytics/date-range.png)
+![Date Range](../screenshots/analytics/date-range.png)
 *Select time period for analysis*
 
 | Period | Shows |

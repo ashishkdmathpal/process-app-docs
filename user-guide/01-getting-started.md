@@ -37,7 +37,7 @@ If you're setting up Orderly for your organization, follow these steps:
 
 Open your browser and go to the Orderly application. Click on **"Sign Up"** or **"Register"**.
 
-![Registration Page](screenshots/auth/register-page-full.png)
+![Registration Page](../screenshots/auth/register-page-full.png)
 
 **Step 2: Enter Your Organization Details**
 
@@ -50,17 +50,17 @@ Fill in the registration form with your organization information:
 | **Email** | Your work email address | "alex@crescendo.io" |
 | **Password** | A secure password (min 8 characters) | ••••••••• |
 
-![Organization Name Input](screenshots/auth/register-company-input.png)
+![Organization Name Input](../screenshots/auth/register-company-input.png)
 *Enter your organization name in the highlighted field*
 
-![Email Input](screenshots/auth/register-email-input.png)
+![Email Input](../screenshots/auth/register-email-input.png)
 *Enter your email address*
 
 **Step 3: Create Your Account**
 
 Click the **"Create Account"** or **"Sign Up"** button to complete registration.
 
-![Submit Button](screenshots/auth/register-submit-button.png)
+![Submit Button](../screenshots/auth/register-submit-button.png)
 *Click the highlighted button to create your account*
 
 > **Note for Founders:** As the account creator, you will automatically be assigned the **Owner** role with full administrative privileges.
@@ -84,23 +84,23 @@ If your organization already uses Orderly and you've been invited:
 
 Go to the Orderly application login page.
 
-![Login Page](screenshots/auth/login-page-full.png)
+![Login Page](../screenshots/auth/login-page-full.png)
 
 **Step 2: Enter Your Credentials**
 
 Enter your registered email address and password:
 
-![Email Input](screenshots/auth/login-email-input.png)
+![Email Input](../screenshots/auth/login-email-input.png)
 *Enter your registered email address*
 
-![Password Input](screenshots/auth/login-password-input.png)
+![Password Input](../screenshots/auth/login-password-input.png)
 *Enter your password*
 
 **Step 3: Click Sign In**
 
 Click the **"Sign In"** button to access your dashboard.
 
-![Sign In Button](screenshots/auth/login-submit-button.png)
+![Sign In Button](../screenshots/auth/login-submit-button.png)
 *Click the highlighted button to sign in*
 
 ---

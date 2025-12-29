@@ -28,7 +28,7 @@ Tasks are the individual work items in Orderly. Each task represents a specific 
 
 Tasks in Orderly follow the **hard blocking** principle - tasks remain locked until all their dependencies are completed. This ensures processes are followed in the correct order.
 
-![My Tasks Page](screenshots/tasks/my-tasks-full.png)
+![My Tasks Page](../screenshots/tasks/my-tasks-full.png)
 *The My Tasks page showing your assigned work*
 
 ---
@@ -52,7 +52,7 @@ The **My Tasks** page shows all tasks assigned to you across every workflow.
 
 ### Filtering Tasks
 
-![Task Filters](screenshots/tasks/task-filters.png)
+![Task Filters](../screenshots/tasks/task-filters.png)
 *Filter options for tasks*
 
 **Filter Options:**
