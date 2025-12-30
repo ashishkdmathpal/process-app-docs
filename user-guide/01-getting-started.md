@@ -50,9 +50,6 @@ Fill in the registration form with your organization information:
 | **Email** | Your work email address | "alex@crescendo.io" |
 | **Password** | A secure password (min 8 characters) | ••••••••• |
 
-![Organization Name Input](../screenshots/auth/register-company-input.png)
-*Enter your organization name in the highlighted field*
-
 ![Email Input](../screenshots/auth/register-email-input.png)
 *Enter your email address*
 

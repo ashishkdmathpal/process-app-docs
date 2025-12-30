@@ -164,13 +164,15 @@
       loadSidebar: true,
       subMaxLevel: 3,
       auto2top: true,
+      // Redirect subdirectory sidebar requests to root sidebar
+      alias: {
+        '/user-guide/_sidebar.md': '/_sidebar.md',
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
       search: {
         placeholder: 'Search documentation...',
         noData: 'No results found',
-        paths: [
-          '/',
-          '/user-guide/'
-        ],
+        paths: 'auto',
         depth: 2
       },
       pagination: {
@@ -187,9 +189,6 @@
         sync: true
       },
       themeColor: '#3b82f6',
-      // Cover page
-      coverpage: true,
-      onlyCover: false,
       // Misc
       notFoundPage: true,
       topMargin: 90
