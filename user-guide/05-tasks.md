@@ -138,6 +138,9 @@ A task stays locked until:
 
 When a task is **Available**, you can start it:
 
+![Start Task Button](../screenshots/tasks/start-task-button.png)
+*Click the Start button to begin working on a task*
+
 **Steps:**
 1. Find an available task (⭕ blue icon)
 2. Click the **Start** button

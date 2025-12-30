@@ -5,6 +5,7 @@ Manage your organization's users, roles, and permissions in Orderly.
 ## Table of Contents
 
 - [Overview](#overview)
+- [Profile & Settings](#profile--settings)
 - [User Roles](#user-roles)
 - [Inviting Team Members](#inviting-team-members)
 - [Managing Users](#managing-users)
@@ -20,6 +21,38 @@ Team Management allows organization owners and admins to:
 - Assign and change roles
 - Manage permissions
 - Remove users when needed
+
+---
+
+## Profile & Settings
+
+Access your profile and settings by clicking on your avatar in the sidebar.
+
+### Profile Overview
+
+![Profile Settings](../screenshots/settings/profile-full.png)
+*Your profile settings page*
+
+### User Information
+
+![User Info](../screenshots/settings/user-info.png)
+*View and edit your personal information*
+
+Your profile includes:
+- **Display Name** - How you appear to team members
+- **Email** - Your login and notification email
+- **Role** - Your permission level (Owner, Manager, Member)
+- **Department/Tags** - Teams you belong to
+
+### Theme Settings
+
+![Theme Toggle](../screenshots/settings/theme-toggle.png)
+*Toggle between light and dark themes*
+
+Customize your experience with theme options:
+- **Light Mode** - Default bright theme
+- **Dark Mode** - Easier on the eyes in low light
+- **System** - Follows your device preferences
 
 ---
 
@@ -171,6 +204,9 @@ For permanent removal:
 | Access team analytics | ✅ |
 | Manage organization settings | ❌ |
 
+![Manager Tasks View](../screenshots/roles/manager-tasks.png)
+*How managers see and manage team tasks*
+
 ### Member Permissions
 
 | Action | Allowed |
@@ -181,6 +217,9 @@ For permanent removal:
 | View personal analytics | ✅ |
 | Create playbooks | ❌ |
 | Manage users | ❌ |
+
+![Member Tasks View](../screenshots/roles/member-tasks.png)
+*How members see their assigned tasks*
 
 ---
 

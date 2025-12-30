@@ -140,6 +140,9 @@ Use the filter and search controls to quickly find specific workflows.
 
 ### Search
 
+![Search Input](../screenshots/dashboard/search-input.png)
+*Search for workflows by name or template*
+
 Type in the search box to filter workflows by:
 - Workflow instance title
 - Template (playbook) name
@@ -155,8 +158,11 @@ Click filter buttons to show only certain workflow statuses:
 | **Stuck** | Workflows with blocked tasks |
 | **Completed** | Finished workflows |
 
-![Filtered View](../screenshots/dashboard/filtered-stuck.png)
+![Filtered View - Stuck](../screenshots/dashboard/filtered-stuck.png)
 *Dashboard filtered to show only stuck workflows*
+
+![Filtered View - Completed](../screenshots/dashboard/filtered-completed.png)
+*Dashboard filtered to show completed workflows*
 
 ---
 

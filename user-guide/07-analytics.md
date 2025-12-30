@@ -57,6 +57,9 @@ Analytics helps you answer questions like:
 
 ## Workflow Analytics
 
+![Chart Section](../screenshots/analytics/chart-section.png)
+*Analytics charts showing workflow trends*
+
 ### Completion Trends
 
 Track how many workflows complete over time:

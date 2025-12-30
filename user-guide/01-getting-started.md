@@ -56,6 +56,12 @@ Fill in the registration form with your organization information:
 ![Email Input](../screenshots/auth/register-email-input.png)
 *Enter your email address*
 
+![Name Input](../screenshots/auth/register-name-input.png)
+*Enter your full name*
+
+![Password Input](../screenshots/auth/register-password-input.png)
+*Create a secure password*
+
 **Step 3: Create Your Account**
 
 Click the **"Create Account"** or **"Sign Up"** button to complete registration.

@@ -103,6 +103,12 @@ Yes:
 4. Verify the new email
 5. New email becomes active
 
+![Profile Page](../screenshots/settings/profile-full.png)
+*Your profile settings page*
+
+![User Info Section](../screenshots/settings/user-info.png)
+*User information section where you can update your details*
+
 </details>
 
 <details>
@@ -111,6 +117,9 @@ Yes:
 1. Click your profile icon
 2. Look for the theme toggle (sun/moon icon)
 3. Click to switch between light and dark mode
+
+![Theme Toggle](../screenshots/settings/theme-toggle.png)
+*The theme toggle switch for light/dark mode*
 
 Or: Your system preference may be detected automatically.
 
