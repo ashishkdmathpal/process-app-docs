@@ -167,7 +167,11 @@
       search: {
         placeholder: 'Search documentation...',
         noData: 'No results found',
-        paths: 'auto'
+        paths: [
+          '/',
+          '/user-guide/'
+        ],
+        depth: 2
       },
       pagination: {
         previousText: '← Previous',
@@ -187,13 +191,8 @@
       coverpage: true,
       onlyCover: false,
       // Misc
-      relativePath: false,
       notFoundPage: true,
-      topMargin: 90,
-      // Alias to ensure sidebar always loads from root
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      }
+      topMargin: 90
     }
   </script>
 
