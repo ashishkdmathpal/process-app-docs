@@ -187,9 +187,13 @@
       coverpage: true,
       onlyCover: false,
       // Misc
-      relativePath: true,
+      relativePath: false,
       notFoundPage: true,
-      topMargin: 90
+      topMargin: 90,
+      // Alias to ensure sidebar always loads from root
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      }
     }
   </script>
 
